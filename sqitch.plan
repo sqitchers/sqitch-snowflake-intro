@@ -9,3 +9,4 @@ userflips [appschema users flips] 2018-07-27T15:23:50Z Marge N. O’Vera <marge@
 @v1.0.0-dev1 2018-07-27T15:40:25Z Marge N. O’Vera <marge@example.com> # Tag v1.0.0-dev1.
 
 lists [appschema flips] 2018-07-27T16:00:00Z Marge N. O’Vera <marge@example.com> # Adds table for storing lists.
+hashtags [flips] 2018-07-27T15:51:16Z Marge N. O’Vera <marge@example.com> # Adds table for storing hashtags.
