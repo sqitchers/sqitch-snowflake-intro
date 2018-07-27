@@ -7,3 +7,5 @@ users [appschema] 2018-07-27T15:03:56Z Marge N. O’Vera <marge@example.com> # C
 flips [appschema users] 2018-07-27T15:23:41Z Marge N. O’Vera <marge@example.com> # Adds table for storing flips.
 userflips [appschema users flips] 2018-07-27T15:23:50Z Marge N. O’Vera <marge@example.com> # Creates the userflips view.
 @v1.0.0-dev1 2018-07-27T15:40:25Z Marge N. O’Vera <marge@example.com> # Tag v1.0.0-dev1.
+
+lists [appschema flips] 2018-07-27T16:00:00Z Marge N. O’Vera <marge@example.com> # Adds table for storing lists.
