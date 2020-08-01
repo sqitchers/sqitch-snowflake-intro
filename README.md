@@ -4,7 +4,7 @@ Sqitch Snowflake Intro
 A tutorial repository demonstrating how to manage an
 [Snowflake](https://www.snowflake.net/) database with
 [Sqitch](https://sqitch.org/). The actual tutorial is
-[`sqitchtutorial-snowflake`](https://github.com/theory/sqitch/blob/master/lib/sqitchtutorial-snowflake.pod);
+[`sqitchtutorial-snowflake`](https://sqitch.org/docs/manual/sqitchtutorial-snowflake/);
 this repository is actually the example repository described in the tutorial.
 So you may want to look at the history here. Or clone this repository and run
 `sqitch` against various checkouts or just against the Git history.
